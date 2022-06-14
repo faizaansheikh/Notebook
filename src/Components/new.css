@@ -1,0 +1,46 @@
+/* .red{
+    background-color: red;
+    height: 300px;
+} */
+.green{
+    /* background-color: rgb(87, 220, 26);
+    height: 400px; */
+    display: flex;
+    justify-content: center;
+}
+.greens{
+    /* background-color: rgba(87, 220, 26, 0.416);
+    height: 400px; */
+    display: flex;
+    justify-content: center;
+}
+/* .blue{
+    background-color: rgb(17, 10, 144);
+    height: 300px;
+} */
+.newbtn{
+    margin-top: 10px;
+    font-size: 23px!important;
+    font-family: 'Lobster', cursive;
+}
+.newcard{
+    margin-top: 50px;
+}
+.del{
+    background-color: rgba(255, 0, 0, 0.896)!important;
+    border: none!important;
+    display: flex!important;
+    font-family: 'Lobster', cursive;
+    justify-content: center!important;
+    font-size: 22px!important;
+}
+.delbtn{
+    margin-top: 10px;
+    font-size: 23px!important;
+    background-color: rgba(255, 0, 0, 0.896)!important;
+    border: red!important;
+    font-family: 'Lobster', cursive;
+}
+h3,p{
+    font-family: 'Lobster', cursive;
+}
